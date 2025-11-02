@@ -54,8 +54,10 @@ In this project, we:
 
 | Metric | Linear Regression | Decision Tree | Random Forest |
 |---------|-------------------|----------------|----------------|
-| MAE | (your_value_here) | (your_value_here) | (your_value_here) |
-| R² Score | (your_value_here) | (your_value_here) | (your_value_here) |
+| R² Score(Higher=Better) | 0.889 | 0.956 | 0.951 |
+| RMSE(Lower=Better) | 1.197 | 0.758 | 0.793 |
+| MAE(Lower=Better) | 0.892 | 0.480 | 0.450 |
+
 
 ✅ **Verdict:** Random Forest gives the most accurate and stable predictions, making it the best choice for this dataset.
 
