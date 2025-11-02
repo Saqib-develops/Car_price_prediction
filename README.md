@@ -100,8 +100,10 @@ Tells us that on what Features does our Random Forest model relies the most to p
    cd Car-price-prediction
 
 2. Install Dependencies:
+    ```bash
    pip install -r requirements.txt
 
 3. Run the Notebook:
+   ```bash
    jupyter notebook used_cars.ipynb
 
