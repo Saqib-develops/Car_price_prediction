@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction using Machine Learning
+# 🚗 Used Car Price Prediction using Machine Learning
 
 This project aims to **predict the selling price of used cars** based on various features such as age, mileage, fuel type, transmission, and more.  
 The goal is to compare multiple regression models and determine which performs best in predicting car prices.
