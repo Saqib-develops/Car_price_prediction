@@ -73,6 +73,13 @@ A scatter plot comparing actual and predicted selling prices for all three model
 ### 2. Model Performance Comparison
 Bar charts and evaluation metrics used to visualize the error comparison across models.
 
+*(Saved as `Model_Performance_Comparison.png`)*
+
+### 3. Feature Importance
+Tells us that on what Features does our Random Forest model relies the most to predict correct answers
+
+*(Saved as `Feature_Importance.png`)*
+
 ---
 
 ## 🧩 Technologies Used
